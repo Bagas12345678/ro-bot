@@ -1163,7 +1163,7 @@ const processsTime = (timestamp, now) => {
 return moment.duration(now - moment(timestamp * 1000)).asSeconds()} 
 nunie = nomerowner + '@s.whatsapp.net'
 teks = `┏━━━━━━━ •
-┃${f} *NAMA BOT :* ${namabot}
+┃${f} *NAMA BOT :* ${BagasBotz}
 ┃${f} *OWNER :* @${nunie.split("@")[0]}
 ┃${f} *PREFIX :* 「 *MULTI* 」
 ┃${f} *RUNTIME :* ${kyun(process.uptime())}
